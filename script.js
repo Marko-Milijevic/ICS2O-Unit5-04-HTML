@@ -1,4 +1,4 @@
-// Add Event Listener to buttons 
+// Add Event Listener to buttons
 document.getElementById('change-image').addEventListener('click', image)
 document.getElementById('change-text').addEventListener('click', text)
 document.getElementById('hide').addEventListener('click', hide)
